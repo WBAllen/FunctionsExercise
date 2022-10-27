@@ -143,6 +143,3 @@ caps = (string) => {
 }
 
 console.log(caps(`Hello World`));
-
-
-// When finished, create a repository in the “FunctionsExercise” Folder as well as on GitHub. Add and commit everything in the FunctionsExercise folder and push it up to your GitHub repository. Then paste the link to your GitHub repository page in the form in google classroom.
